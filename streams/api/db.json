@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "my stream",
+      "id": 1
+    },
+    {
+      "title": "other Stream",
+      "description": "Here's some stream",
+      "id": 2
+    },
+    {
+      "title": "i created this stream",
+      "description": "this change was made by a patch request",
+      "userId": "102011342710070108375",
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "title": "ss",
+      "description": "ss",
+      "id": 6
+    },
+    {
+      "title": "0.",
+      "description": "0.",
+      "userId": "106477355106393741322",
+      "id": 7
+    }
+  ]
+}
