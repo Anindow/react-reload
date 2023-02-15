@@ -17,8 +17,7 @@ class StreamDelete extends React.Component {
         {/* we can use <> instate of div its called react fragment and react fragment is needed without the <div> cause the actions proparty cant read 2 button (element ) at a time  */}
         <button
           onClick={() => this.props.deleteStream(id)}
-          className="ui button negative"
-          >
+          className="ui button negative">
           Delete
         </button>
         <Link to="/" className="ui button ">
